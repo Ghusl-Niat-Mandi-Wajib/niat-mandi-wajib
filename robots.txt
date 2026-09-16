@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# GANTI DENGAN DOMAIN RESMI ANDA
+Sitemap: https://yourdomain.com/sitemap.xml
