@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # GANTI DENGAN DOMAIN RESMI ANDA
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://niat-mandi-wajib.web.id/sitemap.xml
